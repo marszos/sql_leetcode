@@ -3,3 +3,4 @@
 2. [Not Boring Movies](https://github.com/marszos/sql_leetcode/blob/41928871f9cb876b0a40c0be5fe4fc11b2bb715c/Not_Boring_Movies.sql)
 3. [Employees Earning More](https://github.com/marszos/sql_leetcode/blob/083ea22b546f944fa1256b17b4c9e43626a8d5a6/Employees_Managers.sql)
 4. [Duplicate Emails](https://github.com/marszos/sql_leetcode/blob/3c9ab6b10fec220370431ef2cf5590243b639531/Duplicate_Emails.sql)
+5. [Combine Two Tables](https://github.com/marszos/sql_leetcode/blob/739c3c92ca68ad52eead5a586457e1934647a8a3/CombineTwoTables.sql)
