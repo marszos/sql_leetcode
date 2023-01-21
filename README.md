@@ -6,4 +6,5 @@
 5. [Combine Two Tables](https://github.com/marszos/sql_leetcode/blob/739c3c92ca68ad52eead5a586457e1934647a8a3/CombineTwoTables.sql)
 6. [Rank Scores](https://github.com/marszos/sql_leetcode/blob/136c0cfdb17948915ca5ec69136554f7d296adaa/Rank_Scores.py)
 7. [Department Highest Salary](https://github.com/marszos/sql_leetcode/blob/46440e46dda81bb4f1b466316306a2817da1c057/Department_Highest_Salary.sql)
+8. [Department Highest Salary CTE](https://github.com/marszos/sql_leetcode/blob/21127885c977ecbc91185c7ef241c7fa7e5d421e/Department_Highest_Salary2.sql)
 
