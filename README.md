@@ -8,3 +8,4 @@
 7. [Department Highest Salary](https://github.com/marszos/sql_leetcode/blob/46440e46dda81bb4f1b466316306a2817da1c057/Department_Highest_Salary.sql)
 8. [Department Highest Salary CTE](https://github.com/marszos/sql_leetcode/blob/21127885c977ecbc91185c7ef241c7fa7e5d421e/Department_Highest_Salary2.sql)
 9. [Rising Temperature](https://github.com/marszos/sql_leetcode/blob/b248c57ec52ee72a54cd9120d4cb9219a6e77cf8/Rising_Temperature.sql)
+10. [Trips and Users](https://github.com/marszos/sql_leetcode/blob/37f002fddb79a9816523d133e859c56eea878aee/trips_and_Users.sql)
