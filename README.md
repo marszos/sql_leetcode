@@ -10,3 +10,4 @@
 9. [Rising Temperature](https://github.com/marszos/sql_leetcode/blob/b248c57ec52ee72a54cd9120d4cb9219a6e77cf8/Rising_Temperature.sql)
 10. [Trips and Users](https://github.com/marszos/sql_leetcode/blob/37f002fddb79a9816523d133e859c56eea878aee/trips_and_Users.sql)
 11. [Reformat Department Table](https://github.com/marszos/sql_leetcode/blob/78ec5af2d3feef53b2211c74855a39b88d55ee12/reformat.sql)
+12. [Consecutive Numbers](https://github.com/marszos/sql_leetcode/blob/012091260b15638379af1b739ff5e8e722fe24fd/ConsecutiveNumbers.sql)
