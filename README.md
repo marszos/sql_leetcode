@@ -11,3 +11,4 @@
 10. [Trips and Users](https://github.com/marszos/sql_leetcode/blob/37f002fddb79a9816523d133e859c56eea878aee/trips_and_Users.sql)
 11. [Reformat Department Table](https://github.com/marszos/sql_leetcode/blob/78ec5af2d3feef53b2211c74855a39b88d55ee12/reformat.sql)
 12. [Consecutive Numbers](https://github.com/marszos/sql_leetcode/blob/012091260b15638379af1b739ff5e8e722fe24fd/ConsecutiveNumbers.sql)
+13. [Customers Who Never Order](https://github.com/marszos/sql_leetcode/blob/0139de073ea80d232c336c54e36bff0d0edaac36/CustomersWhoNever.sql)
