@@ -13,3 +13,4 @@
 12. [Consecutive Numbers](https://github.com/marszos/sql_leetcode/blob/012091260b15638379af1b739ff5e8e722fe24fd/ConsecutiveNumbers.sql)
 13. [Customers Who Never Order](https://github.com/marszos/sql_leetcode/blob/0139de073ea80d232c336c54e36bff0d0edaac36/CustomersWhoNever.sql)
 14. [Department Top Three Salaries](https://github.com/marszos/sql_leetcode/blob/dc0098fa478c9863819b1ce1d320102953577380/dep_3_salary.sql)
+15. [Game Play Analysis I](https://github.com/marszos/sql_leetcode/blob/08db2429327fd768f3e2c271408eda48fbad69ca/Game_Play.sql)
