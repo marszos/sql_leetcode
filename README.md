@@ -16,3 +16,4 @@
 15. [Game Play Analysis I](https://github.com/marszos/sql_leetcode/blob/08db2429327fd768f3e2c271408eda48fbad69ca/Game_Play.sql)
 16. [Investments in 2016](https://github.com/marszos/sql_leetcode/blob/8fb8ccdc3dbce7fae0adb73358ccd7147339d990/invest_2016.sql)
 17. [Movie Rating](https://github.com/marszos/sql_leetcode/blob/3d3751333967a79b93eb371a3b529a28b928e703/MovieRating.sql)
+18. [Friend Requests II: Who Has the Most Friends](https://github.com/marszos/sql_leetcode/blob/408a46e4e6d0a9322ba68943250558049193bb06/friends2.sql)
