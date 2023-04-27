@@ -18,3 +18,4 @@
 17. [Movie Rating](https://github.com/marszos/sql_leetcode/blob/3d3751333967a79b93eb371a3b529a28b928e703/MovieRating.sql)
 18. [Friend Requests II: Who Has the Most Friends](https://github.com/marszos/sql_leetcode/blob/408a46e4e6d0a9322ba68943250558049193bb06/friends2.sql)
 19. [Exchange Seats](https://github.com/marszos/sql_leetcode/blob/7d376668194a2e15b86028a30d138a28976252e3/Exchange_Seats.sql)
+20. [Customers Who Bought All Products](https://github.com/marszos/sql_leetcode/blob/bcb4ef417a1712d6ea863c1d00ef1638edaa271e/customers_who_bought.sql)
