@@ -20,3 +20,4 @@
 19. [Exchange Seats](https://github.com/marszos/sql_leetcode/blob/7d376668194a2e15b86028a30d138a28976252e3/Exchange_Seats.sql)
 20. [Customers Who Bought All Products](https://github.com/marszos/sql_leetcode/blob/bcb4ef417a1712d6ea863c1d00ef1638edaa271e/customers_who_bought.sql)
 21. [Market Analysis I](https://github.com/marszos/sql_leetcode/blob/849ff2d5908738c7588fb71447d9b9c7c669275e/MarketAnalysisI.sql)
+22. [Capital Gain/Loss](https://github.com/marszos/sql_leetcode/blob/c3069813cd5ecfd5323bebed808ae99ebc50d2de/CapitalGain.sql)
