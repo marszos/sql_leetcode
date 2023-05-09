@@ -22,3 +22,4 @@
 21. [Market Analysis I](https://github.com/marszos/sql_leetcode/blob/849ff2d5908738c7588fb71447d9b9c7c669275e/MarketAnalysisI.sql)
 22. [Capital Gain/Loss](https://github.com/marszos/sql_leetcode/blob/c3069813cd5ecfd5323bebed808ae99ebc50d2de/CapitalGain.sql)
 23. [Confirmation Rate](https://github.com/marszos/sql_leetcode/blob/bc9c4a5ec017c870ffcc626da2c32225ac5f22c7/Confirmation_Rate.sql)
+24. [Count Salary Categories](https://github.com/marszos/sql_leetcode/blob/1745572153c878f31792cf42270d3e532062497b/CountSalaryCategories.sql)
