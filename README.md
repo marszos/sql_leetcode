@@ -24,3 +24,4 @@
 23. [Confirmation Rate](https://github.com/marszos/sql_leetcode/blob/bc9c4a5ec017c870ffcc626da2c32225ac5f22c7/Confirmation_Rate.sql)
 24. [Count Salary Categories](https://github.com/marszos/sql_leetcode/blob/1745572153c878f31792cf42270d3e532062497b/CountSalaryCategories.sql)
 25. [Top Travellers](https://github.com/marszos/sql_leetcode/blob/7582dbb46d252c722681b884966893e1e01f0ed1/TopTravellers.sql)
+26. [Employees With Missing Information](https://github.com/marszos/sql_leetcode/blob/ba831761001c827067f799e45d94f309e700762b/EmployeesWithMissingInformation.sql)
