@@ -25,3 +25,4 @@
 24. [Count Salary Categories](https://github.com/marszos/sql_leetcode/blob/1745572153c878f31792cf42270d3e532062497b/CountSalaryCategories.sql)
 25. [Top Travellers](https://github.com/marszos/sql_leetcode/blob/7582dbb46d252c722681b884966893e1e01f0ed1/TopTravellers.sql)
 26. [Employees With Missing Information](https://github.com/marszos/sql_leetcode/blob/ba831761001c827067f799e45d94f309e700762b/EmployeesWithMissingInformation.sql)
+27. [Find Total Time Spent by Each Employee](https://github.com/marszos/sql_leetcode/blob/329f129427511e3b8e9d28a6c0e7230fb5af46d9/total_time_emplo.sql)
