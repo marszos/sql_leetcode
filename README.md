@@ -27,3 +27,4 @@
 26. [Employees With Missing Information](https://github.com/marszos/sql_leetcode/blob/ba831761001c827067f799e45d94f309e700762b/EmployeesWithMissingInformation.sql)
 27. [Find Total Time Spent by Each Employee](https://github.com/marszos/sql_leetcode/blob/329f129427511e3b8e9d28a6c0e7230fb5af46d9/total_time_emplo.sql)
 28. [Group Sold Products By The Date](https://github.com/marszos/sql_leetcode/blob/4f077f1bd59c7fc141741da63444bca9132559e9/GroupSoldProduct.sql)
+29. [The Latest Login in 2020](https://github.com/marszos/sql_leetcode/blob/af2c37ec15a4cadc95792eb26eca8eafb239bf82/LatestLogin2020.sql)
