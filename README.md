@@ -28,3 +28,4 @@
 27. [Find Total Time Spent by Each Employee](https://github.com/marszos/sql_leetcode/blob/329f129427511e3b8e9d28a6c0e7230fb5af46d9/total_time_emplo.sql)
 28. [Group Sold Products By The Date](https://github.com/marszos/sql_leetcode/blob/4f077f1bd59c7fc141741da63444bca9132559e9/GroupSoldProduct.sql)
 29. [The Latest Login in 2020](https://github.com/marszos/sql_leetcode/blob/af2c37ec15a4cadc95792eb26eca8eafb239bf82/LatestLogin2020.sql)
+30. [Customer Who Visited but Did Not Make Any Transactions](https://github.com/marszos/sql_leetcode/blob/8516e2a3801001c5c8d3c5d0284214e269ac1d31/customer_visit.sql)
