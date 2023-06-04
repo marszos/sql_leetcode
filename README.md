@@ -31,3 +31,4 @@
 30. [Customer Who Visited but Did Not Make Any Transactions](https://github.com/marszos/sql_leetcode/blob/8516e2a3801001c5c8d3c5d0284214e269ac1d31/customer_visit.sql)
 31. [Calculate Special Bonus](https://github.com/marszos/sql_leetcode/blob/ad20a5fd9e555056cfe4740ae81e3bab8e02fe1b/CalculateSpecialBonus.sql)
 32. [Fix Names in a Table](https://github.com/marszos/sql_leetcode/blob/9d61bb6c9da922daff5e56029a3c35217e443ce5/FixNamesinaTable.sql)
+33. [Recyclable and Low Fat Products](https://github.com/marszos/sql_leetcode/blob/040da4d7a312c82adff7f3308a846b5a5ab7df6a/RecyclableandLowFat.sql)
